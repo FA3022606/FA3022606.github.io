@@ -4,5 +4,5 @@ Here is my notebook
 
 [Home](index.md)
 
-\theme: jekyll-theme-hacker
+
 
