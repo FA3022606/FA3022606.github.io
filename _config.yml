@@ -1,0 +1,9 @@
+title: My WildCat Studios Portfolio
+
+description: This is my project.
+
+baseurl: "" 
+
+url: "https://FA3022606.github.io" 
+
+theme: jekyll-theme-architect
