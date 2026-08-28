@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is [France].
+# Hello! Welcome to My Portfolio.
 
 # My Projects
 
