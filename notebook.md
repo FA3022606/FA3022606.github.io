@@ -1,3 +1,8 @@
+[Notebook](notebook.md)
+
+[Home](index.md)
+
+
 ------------------------------------------------------------------
 ## Table of Contents
 
