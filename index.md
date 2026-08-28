@@ -13,3 +13,5 @@ Click here to learn more → [About Me](about.md)
 ## My Notebook
 
 Click here to go to my notebook → [Notebook](notebook.md)
+
+\theme: jekyll-theme-hacker
