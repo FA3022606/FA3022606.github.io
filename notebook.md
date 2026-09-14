@@ -7,11 +7,17 @@ Here is my notebook
 ------------------------------------------------------------------
 ## Table of Contents
 
+- [Blocks](#blocks)
+
+- [Concepts](#concepts)
+
+- [Vocabulary](#vocabulary)
+
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
-  - [Headings](#headings)
+- [Headings](#headings)
 
-  - [Text Formatting](#text-formatting)
+- [Text Formatting](#text-formatting)
 
 ------------------------------------------------------------------
 
