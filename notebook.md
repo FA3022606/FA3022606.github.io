@@ -250,6 +250,33 @@ Checklists = Progress
 
 Blockquotes = Notes/Tips
 
+Block	What Your Notes Should Include
+Hat Block	What it looks like, what it is used for, and where it belongs
+Stack / Command Block	What it does and how it connects to other commands
+C-Block	What the C-shape means and why blocks can be placed inside
+Reporter / Oval Block	What it reports and where it can be used
+Boolean / Hexagonal Block	What it reports and why it has a different shape
+Repeat Block	Its shape, what it does, and what goes inside it
+Wait Until Block	What it does and what kind of condition it needs
+If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
+Forever Block	Its shape and why programmers use it
+For each block, include:
+
+Name:
+Shape/Type:
+What It Does:
+Example:
+
+You may include a screenshot of the actual VEXcode block.
+
+Important
+The If Then block is NOT hexagonal.
+
+It is a C-shaped control block.
+
+The condition that goes inside it is hexagonal because the condition reports either:
+
+TRUE or FALSE
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
