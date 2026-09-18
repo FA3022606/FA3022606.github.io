@@ -16,9 +16,23 @@
 
 
 # Blocks:
-Block	What Your Notes Should Include
-Hat Block	What it looks like, what it is used for, and where it belongs
+
+### Hat Block	
+What it looks like 
+
+<img width="130" height="74" alt="image" src="https://github.com/user-attachments/assets/4a5e460b-9aa8-4d23-8441-00f6a030ade5" />
+
+what it is used for
+
+where it belongs
+
+
+
+
 Stack / Command Block	What it does and how it connects to other commands
+
+
+
 C-Block	What the C-shape means and why blocks can be placed inside
 Reporter / Oval Block	What it reports and where it can be used
 Boolean / Hexagonal Block	What it reports and why it has a different shape
@@ -35,6 +49,7 @@ Example:
 
 You may include a screenshot of the actual VEXcode block.
 
+<img width="273" height="850" alt="Screenshot 2026-09-18 090727" src="https://github.com/user-attachments/assets/9a650d7c-67ec-48fd-bc87-56454e2e1fd2" />
 
 
 Important
