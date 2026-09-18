@@ -250,7 +250,7 @@ Checklists = Progress
 
 Blockquotes = Notes/Tips
 
-# Block:
+# Blocks:
 Block	What Your Notes Should Include
 Hat Block	What it looks like, what it is used for, and where it belongs
 Stack / Command Block	What it does and how it connects to other commands
