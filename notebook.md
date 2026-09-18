@@ -282,6 +282,7 @@ Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
 
+## Day 2
 # Concepts
 
 Sequence	Why the order of commands matters
