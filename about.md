@@ -12,7 +12,10 @@ Below are my favorite characters
 <img width="524" height="586" alt="image" src="https://github.com/user-attachments/assets/c54818d4-b2a6-4d71-a98a-fc68ed7b33d3" />
 
 
-##
+#I want to be a mechanical engineer because I will be VERY RICH AND CONSISTENT
+
+<img width="195" height="183" alt="image" src="https://github.com/user-attachments/assets/2b70f08b-ab7a-479e-a67e-acf6c886a63e" />
+
 
 [Notebook](notebook.md)
 
