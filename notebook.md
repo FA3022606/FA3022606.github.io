@@ -1,31 +1,188 @@
-Here is my notebook
-
-[Notebook](notebook.md)
-
 [Home](index.md)
 
 ------------------------------------------------------------------
 ## Table of Contents
 
 - [Blocks](#blocks)
-
 - [Concepts](#concepts)
-
 - [Vocabulary](#vocabulary)
-
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+  - [Headings](#headings)
+  - [Text Formatting](#text-formatting)
 
-- [Headings](#headings)
 
-- [Text Formatting](#text-formatting)
 
-------------------------------------------------------------------
 
- Under the table is contents is where you will add your notes.
 
-Add about 30 lines below the table and then paste all of the following to the end of your notebook to have the style guide and reference:
 
- ------------------------------------------------------------------
+# Blocks:
+Block	What Your Notes Should Include
+Hat Block	What it looks like, what it is used for, and where it belongs
+Stack / Command Block	What it does and how it connects to other commands
+C-Block	What the C-shape means and why blocks can be placed inside
+Reporter / Oval Block	What it reports and where it can be used
+Boolean / Hexagonal Block	What it reports and why it has a different shape
+Repeat Block	Its shape, what it does, and what goes inside it
+Wait Until Block	What it does and what kind of condition it needs
+If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
+Forever Block	Its shape and why programmers use it
+For each block, include:
+
+Name:
+Shape/Type:
+What It Does:
+Example:
+
+You may include a screenshot of the actual VEXcode block.
+
+
+
+Important
+The If Then block is NOT hexagonal.
+
+It is a C-shaped control block.
+
+The condition that goes inside it is hexagonal because the condition reports either:
+
+TRUE or FALSE
+Collapsible = Hide/Show detail
+
+Keep it simple, consistent, and clear.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Day 2
+# Concepts
+
+Sequence	Why the order of commands matters
+Parameters	How changing an input changes what a command does
+Loops / Iteration	How and why programs repeat instructions
+Sensors	How a robot gets information about its environment
+Booleans & Conditions	How TRUE/FALSE information controls a program
+Sense → Think → Act	How a robot senses information, makes a decision, and responds
+Comparisons	How < and > compare values and produce TRUE/FALSE
+Coordinates	How X and Y values describe the robot's location
+Conditionals	How programs make decisions using conditions
+Patterns	How recognizing repeated behavior can help create better algorithms
+For each concept, include:
+
+What It Means:
+In My Own Words:
+Example:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Vocabulary
+Notebook Entry	Terms to Include
+VR Robot + Playground	VR Robot, Playground
+Programming Language + Project	Programming Language, Project
+Behavior + Command	Behavior, Command
+Drivetrain	Drivetrain
+Loop + Iteration	Loop, Iteration
+Sensor + Bumper Sensor	Sensor, Bumper Sensor
+Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSE
+Distance Sensor + Threshold	Distance Sensor, Threshold
+Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
+Location Sensor	Location Sensor
+Comment	Comment
+Eye Sensor	Eye Sensor
+Conditional Statement	Conditional Statement
+That means you are creating 13 vocabulary entries, not a separate entry for every individual word.
+
+Vocabulary Entry Format
+Use the expandable format already used in your notebook:
+
+<details>
+<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Markdown Style Guide for Coding Notebooks
 
@@ -153,11 +310,8 @@ When to use: Compare values, track progress, or organize data neatly.
 # Example:
 
 | Task        | Status   | Notes          |
-
 |--------------|------------|-----------------| 
-
 | Homework 1  | Done #  | Submitted      |
-
 | Homework 2  | Pending  | Needs review   |
 
  
@@ -250,85 +404,6 @@ Checklists = Progress
 
 Blockquotes = Notes/Tips
 
-# Blocks:
-Block	What Your Notes Should Include
-Hat Block	What it looks like, what it is used for, and where it belongs
-Stack / Command Block	What it does and how it connects to other commands
-C-Block	What the C-shape means and why blocks can be placed inside
-Reporter / Oval Block	What it reports and where it can be used
-Boolean / Hexagonal Block	What it reports and why it has a different shape
-Repeat Block	Its shape, what it does, and what goes inside it
-Wait Until Block	What it does and what kind of condition it needs
-If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
-Forever Block	Its shape and why programmers use it
-For each block, include:
-
-Name:
-Shape/Type:
-What It Does:
-Example:
-
-You may include a screenshot of the actual VEXcode block.
-
-Important
-The If Then block is NOT hexagonal.
-
-It is a C-shaped control block.
-
-The condition that goes inside it is hexagonal because the condition reports either:
-
-TRUE or FALSE
-Collapsible = Hide/Show detail
-
-Keep it simple, consistent, and clear.
-
-## Day 2
-# Concepts
-
-Sequence	Why the order of commands matters
-Parameters	How changing an input changes what a command does
-Loops / Iteration	How and why programs repeat instructions
-Sensors	How a robot gets information about its environment
-Booleans & Conditions	How TRUE/FALSE information controls a program
-Sense → Think → Act	How a robot senses information, makes a decision, and responds
-Comparisons	How < and > compare values and produce TRUE/FALSE
-Coordinates	How X and Y values describe the robot's location
-Conditionals	How programs make decisions using conditions
-Patterns	How recognizing repeated behavior can help create better algorithms
-For each concept, include:
-
-What It Means:
-In My Own Words:
-Example:
-
-# Vocabulary
-Notebook Entry	Terms to Include
-VR Robot + Playground	VR Robot, Playground
-Programming Language + Project	Programming Language, Project
-Behavior + Command	Behavior, Command
-Drivetrain	Drivetrain
-Loop + Iteration	Loop, Iteration
-Sensor + Bumper Sensor	Sensor, Bumper Sensor
-Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSE
-Distance Sensor + Threshold	Distance Sensor, Threshold
-Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
-Location Sensor	Location Sensor
-Comment	Comment
-Eye Sensor	Eye Sensor
-Conditional Statement	Conditional Statement
-That means you are creating 13 vocabulary entries, not a separate entry for every individual word.
-
-Vocabulary Entry Format
-Use the expandable format already used in your notebook:
-
-<details>
-<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
-
-**Definition:**  
-A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
-
-**In My Own Words:**  
-The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
 
 **Example:**  
 A Bumper Sensor can be used to check whether the bumper is pressed.
