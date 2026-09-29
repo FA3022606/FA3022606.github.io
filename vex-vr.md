@@ -41,14 +41,15 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Storm the castle]
 
 ### Goal
 
+DESTROY EVERYTHING
 
 ### My Solution
 
-
+<img width="801" height="367" alt="image" src="https://github.com/user-attachments/assets/2f3b5fba-2039-408d-ab8c-5fd508e78223" />
 
 ### What I Learned 
 
