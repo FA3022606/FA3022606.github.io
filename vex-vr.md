@@ -57,3 +57,105 @@ DESTROY EVERYTHING
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
 ---------------------------------------------------------------------------
+
+## Challenge: []
+
+### Goal
+
+
+
+### My Solution
+
+
+
+### What I Learned 
+
+
+Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+
+---------------------------------------------------------------------------
+
+## Challenge: []
+
+### Goal
+
+
+
+### My Solution
+
+
+
+### What I Learned 
+
+
+Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+
+---------------------------------------------------------------------------
+
+## Challenge: []
+
+### Goal
+
+
+
+### My Solution
+
+
+
+### What I Learned 
+
+
+Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+
+---------------------------------------------------------------------------
+
+## Challenge: []
+
+### Goal
+
+
+
+### My Solution
+
+
+
+### What I Learned 
+
+
+Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+
+---------------------------------------------------------------------------
+
+## Challenge: []
+
+### Goal
+
+
+
+### My Solution
+
+
+
+### What I Learned 
+
+
+Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+
+---------------------------------------------------------------------------
+
+## Challenge: []
+
+### Goal
+
+
+
+### My Solution
+
+
+
+### What I Learned 
+
+
+Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+
+---------------------------------------------------------------------------
