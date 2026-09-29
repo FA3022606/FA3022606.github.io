@@ -4,11 +4,11 @@ This page documents my work and learning throughout the VEX VR Computer Science 
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: [Find my age]
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+Find my birthday, using the numbers on the graph.
 
 ### My Solution
 
