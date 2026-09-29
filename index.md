@@ -3,7 +3,7 @@
 # My Projects
 
 - Project 1: [VEX VR](vex-vr.md) : (Find your age)
-- Project 2: I may have an idea
+- Project 2: [VEX VR](vex-vr.md2)
 
 Two things about Me
 
