@@ -24,7 +24,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ---------------------------------------------------------------------------
 
-## Challenge: [Find my age]
+## Challenge: [Basketball drills]
 
 ### Goal
 
@@ -32,7 +32,7 @@ Find my birthday, using the numbers on the graph.
 
 ### My Solution
 
-<img width="604" height="435" alt="image" src="https://github.com/user-attachments/assets/c0706238-76c0-4ed9-a2ad-dbe08aaefdf1" />
+
 
 
 ### What I Learned 
