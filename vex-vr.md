@@ -32,8 +32,7 @@ Progress forwards, whilst moving back the same amount.
 
 ### My Solution
 
-
-
+<img width="621" height="304" alt="image" src="https://github.com/user-attachments/assets/c1fadf9f-b94e-4501-be6e-0f495642dea8" />
 
 ### What I Learned 
 
