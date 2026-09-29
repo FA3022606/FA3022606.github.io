@@ -12,9 +12,11 @@ Find my birthday, using the numbers on the graph.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="604" height="435" alt="image" src="https://github.com/user-attachments/assets/c0706238-76c0-4ed9-a2ad-dbe08aaefdf1" />
 
-### What I Learned
+
+### What I Learned 
+
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
