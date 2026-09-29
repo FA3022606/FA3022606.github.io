@@ -2,7 +2,7 @@
 
 # My Projects
 
-- Project 1: [VEX VR](vex-vr.md) : (Write a description for your VEX VR work and the project page)
+- Project 1: [VEX VR](vex-vr.md) : (Go back and front)
 - Project 2: I may have an idea
 
 Two things about Me
