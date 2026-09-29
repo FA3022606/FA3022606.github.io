@@ -28,7 +28,7 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ### Goal
 
-Find my birthday, using the numbers on the graph.
+Progress forwards, whilst moving back the same amount.
 
 ### My Solution
 
