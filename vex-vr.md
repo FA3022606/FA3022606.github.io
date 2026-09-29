@@ -58,15 +58,15 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Draw a house]
 
 ### Goal
 
-
+Draw a house
 
 ### My Solution
 
-
+<img width="615" height="409" alt="image" src="https://github.com/user-attachments/assets/2d651d67-effb-40bf-8c4c-d57ad103b5ea" />
 
 ### What I Learned 
 
