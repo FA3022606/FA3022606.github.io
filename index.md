@@ -7,7 +7,7 @@
   
 Two things about Me
 - I like procrastinating
-- I like grinding
+- I like playing videogames
   
 Click here to learn more → [About Me](about.md)
 
