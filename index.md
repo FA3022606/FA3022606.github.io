@@ -2,9 +2,8 @@
 
 # My Projects
 
-- Project 1: [VEX VR](vex-vr.md) : (Find your age)
+- Project 1: [VEX VR](vex-vr.md) : (All my work/assignments.)
 - Project 2: N/A
-
 Two things about Me
 
 Click here to learn more → [About Me](about.md)
