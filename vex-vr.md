@@ -75,66 +75,62 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Wall Maze with Bumpers]
 
 ### Goal
-
+Get the VR-robot to the red square.
 
 
 ### My Solution
-
-
+<img src="blob:chrome-untrusted://media-app/3fe5a9a2-ba04-4db8-8b0c-38c782388533" alt="Screenshot 2026-10-13 8.47.25 AM.png"/><img width="923" height="602" alt="image" src="https://github.com/user-attachments/assets/6d88c472-9ffd-4d87-874a-7da48e442fd9" />
 
 ### What I Learned 
-
+I learned how to mess with "if" bumper blocks
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Wall Maze with Distance Sensors]
 
 ### Goal
-
+Use distance-sensors to navigate to the red-square.
 
 
 ### My Solution
-
-
+<img src="blob:chrome-untrusted://media-app/4fa1e3c3-96fc-41f3-9610-5071216d55b6" alt="Screenshot 2026-10-13 8.52.24 AM.png"/><img width="981" height="616" alt="image" src="https://github.com/user-attachments/assets/6ca3b5be-6904-40a1-9d82-485db267ea9e" />
 
 ### What I Learned 
-
+How sensor-blocks work
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Drive to Three Numbers Challenge]
 
 ### Goal
-
+In the Drive to Three Numbers Challenge, the VR Robot will drive to three numbers on the Number Grid Map Playground in any order, using the Location Sensor and operator blocks.
 
 
 ### My Solution
-
-
+<img src="blob:chrome-untrusted://media-app/0948eaf2-d171-4f94-9dbf-bad5ed56937a" alt="Screenshot 2026-10-13 8.55.11 AM.png"/><img width="818" height="443" alt="image" src="https://github.com/user-attachments/assets/7257c595-909e-4bb7-8211-7079a602b609" />
 
 ### What I Learned 
-
+How to use Position X and Y in coordinates to move my robot.
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Disk Color Maze]
 
 ### Goal
-
+Navigate the obstacles using detection blocks.
 
 
 ### My Solution
-
-
+<img src="blob:chrome-untrusted://media-app/6d6ab8aa-95d1-4968-b1f8-ff86e9ee0bc5" alt="Screenshot 2026-10-13 8.58.05 AM.png"/><img width="845" height="442" alt="image" src="https://github.com/user-attachments/assets/70975b4c-0006-44b3-b952-aa2d5d3c6998" />
 
 ### What I Learned 
 
