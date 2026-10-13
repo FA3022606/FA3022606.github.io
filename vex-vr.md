@@ -133,24 +133,24 @@ Navigate the obstacles using detection blocks.
 <img src="blob:chrome-untrusted://media-app/6d6ab8aa-95d1-4968-b1f8-ff86e9ee0bc5" alt="Screenshot 2026-10-13 8.58.05 AM.png"/><img width="845" height="442" alt="image" src="https://github.com/user-attachments/assets/70975b4c-0006-44b3-b952-aa2d5d3c6998" />
 
 ### What I Learned 
-
+I learned to use detection blocks, repeat blocks, and using VR-robots downward and upper views.
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
 ---------------------------------------------------------------------------
 
-## Challenge: []
+## Challenge: [Disk Mover Challenge]
 
 ### Goal
-
+Put the discs in their respective boxes.
 
 
 ### My Solution
-
+<img src="blob:chrome-untrusted://media-app/afdcd53a-37b5-4629-9c67-3b623d3d4e86" alt="Screenshot 2026-10-13 9.24.04 AM.png"/><img width="985" height="597" alt="image" src="https://github.com/user-attachments/assets/4a123105-ec87-4b29-a521-4e5eb6eecc40" />
 
 
 ### What I Learned 
-
+I learned to use Energize (magnet) blocks.
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
