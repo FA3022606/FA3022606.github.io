@@ -18,7 +18,7 @@ Find my birthday, using the numbers on the graph.
 
 
 ### What I Learned 
-
+The basic-building block of VexVR
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
