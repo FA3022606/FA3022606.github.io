@@ -35,7 +35,7 @@ Progress forwards, whilst moving back the same amount.
 <img width="621" height="304" alt="image" src="https://github.com/user-attachments/assets/c1fadf9f-b94e-4501-be6e-0f495642dea8" />
 
 ### What I Learned 
-
+Movement blocks, and repeat blocks.
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
@@ -52,7 +52,7 @@ DESTROY EVERYTHING
 <img width="801" height="367" alt="image" src="https://github.com/user-attachments/assets/2f3b5fba-2039-408d-ab8c-5fd508e78223" />
 
 ### What I Learned 
-
+The VR robot has physics, and can physically interact with something.
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
