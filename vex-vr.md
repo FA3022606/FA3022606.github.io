@@ -69,7 +69,7 @@ Draw a house
 <img width="615" height="409" alt="image" src="https://github.com/user-attachments/assets/2d651d67-effb-40bf-8c4c-d57ad103b5ea" />
 
 ### What I Learned 
-
+Repeat blocks.
 
 Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
 
