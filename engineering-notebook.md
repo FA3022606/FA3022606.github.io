@@ -1,5 +1,5 @@
 # Robotics Engineering Notebook
-Home - (index.md)
+[Home](index.md)
 ## Table of Contents
 - [Day 1](#day-1)
 - [Day 2](#day-2)
