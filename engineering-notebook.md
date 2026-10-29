@@ -14,19 +14,21 @@
 — Date: __________
 
 ### 1. What was your goal or plan for today?
-
+- Measurements for the track/car
 
 ### 2. What did you work on today?
-
+- Git-hub assignment.
 
 ### 3. What tests or experiments did you perform?
-
+Robot measurements:
+-26cm wide
+-26cm long
 
 ### 4. What challenges did you encounter?
-
+We couldn't find the measuring-tape.
 
 ### 5. What did you learn, and what comes next?
-
+The measurements, what comes next is the track.
 
 ---------
 
