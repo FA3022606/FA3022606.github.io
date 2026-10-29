@@ -12,7 +12,7 @@ Two things about Me
 Click here to learn more → [About Me](about.md)
 
 ## My Notebook
-
+- [Engineering-notebook](engineering-notebook.md)
 Click here to go to my notebook → [Notebook](notebook.md)
 
 
